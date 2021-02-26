@@ -1,4 +1,4 @@
-# openlayers-nearmap
+# openlayers-sample
 Use OpenLayers library with Nearmap APIs.
 
 ### Quick Start
@@ -8,7 +8,7 @@ Below you'll find a complete working example showcasing OpenLayers with Nearmap 
 <!DOCTYPE html>
 <html style="width: 100%; height: 100%;">
   <head>
-    <title>OpenLayers Nearmap Example</title>
+    <title>OpenLayers Nearmap Sample</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList"></script>
